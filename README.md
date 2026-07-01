@@ -20,6 +20,6 @@ To add a menu item to your order, type the name of the food exactly as it appear
 
 When you have finished selecting all of your food items, type done and press Enter. The program will stop accepting new menu items and print a receipt showing everything you ordered, along with the subtotal, sales tax, and final total.
 
-After the receipt is displayed, the program will ask if you would like to place another order. Type Y and press Enter if you want to start a new order. This will return you to the main ordering menu so you can place another order without restarting the program.
+After the receipt is displayed, the program will ask if you would like to place another order. Type Y and press Enter if you want to start a new order.
 
-If you are finished using the application, type N and press Enter. The program will display a thank-you message, wait for three seconds, and then automatically close.
+If you are finished using the application, type N and press Enter.
